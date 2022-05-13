@@ -13,3 +13,4 @@ for(x of tinggiBadan) {
 perulangan biasa lebih panjang sintaksnya
  dan juga agaribet kita harus manggil variablenya diikuti indexnya
  perulangan for of gampang kita tinggal manggil variable penggantinya 
+*/
